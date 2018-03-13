@@ -3,3 +3,4 @@
 (Only includes ones I stayed overnight)
 
 * Philadelphia
+* Columbus
