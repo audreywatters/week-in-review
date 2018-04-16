@@ -4,3 +4,4 @@
 
 * Philadelphia
 * Columbus
+* San Diego
