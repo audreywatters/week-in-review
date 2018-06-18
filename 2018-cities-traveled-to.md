@@ -7,3 +7,4 @@
 * San Diego
 * Cambridge
 * Albuquerque
+* Palo Alto
