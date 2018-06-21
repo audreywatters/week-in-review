@@ -2,9 +2,10 @@
 
 (Only includes ones I stayed overnight)
 
-* Philadelphia
-* Columbus
-* San Diego
-* Cambridge
-* Albuquerque
-* Palo Alto
+* Philadelphia, PA
+* Columbus, OH
+* San Diego, CA
+* Cambridge, MA
+* Albuquerque, NM
+* Palo Alto, CA
+* Millbrae, CA
