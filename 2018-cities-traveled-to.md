@@ -9,3 +9,4 @@
 * Albuquerque, NM
 * Palo Alto, CA
 * Millbrae, CA
+* Paris, France
