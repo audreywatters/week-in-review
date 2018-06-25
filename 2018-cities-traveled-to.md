@@ -10,3 +10,4 @@
 * Palo Alto, CA
 * Millbrae, CA
 * Paris, France
+* Grenoble, France
