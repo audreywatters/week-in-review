@@ -11,3 +11,4 @@
 * Millbrae, CA
 * Paris, France
 * Grenoble, France
+* Annecy, France
