@@ -12,3 +12,4 @@
 * Paris, France
 * Grenoble, France
 * Annecy, France
+* Chamonix, France
