@@ -15,3 +15,4 @@
 * Chamonix, France
 * Parsippany, NJ
 * Elyria, OH
+* Ottawa, IL
