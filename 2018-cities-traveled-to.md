@@ -14,3 +14,4 @@
 * Annecy, France
 * Chamonix, France
 * Parsippany, NJ
+* Elyria, OH
