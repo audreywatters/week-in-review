@@ -18,3 +18,4 @@
 * Ottawa, IL
 * Omaha, NE
 * Fort Morgan, CO
+* Salina, UT
