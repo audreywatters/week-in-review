@@ -19,3 +19,4 @@
 * Omaha, NE
 * Fort Morgan, CO
 * Salina, UT
+* Barstow, CA
