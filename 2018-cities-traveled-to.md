@@ -20,3 +20,4 @@
 * Fort Morgan, CO
 * Salina, UT
 * Barstow, CA
+* Inverness, Scotland
