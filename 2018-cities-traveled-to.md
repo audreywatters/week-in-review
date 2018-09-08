@@ -21,3 +21,4 @@
 * Salina, UT
 * Barstow, CA
 * Inverness, Scotland
+* Edinburgh, Scotland
