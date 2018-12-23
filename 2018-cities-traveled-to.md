@@ -25,3 +25,4 @@
 * Indianapolis, IN
 * Rome, Italy
 * Princeton, NJ
+* Las Vegas, NV
