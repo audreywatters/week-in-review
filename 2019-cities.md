@@ -4,3 +4,4 @@
 Seattle
 Hermosa Beach
 Clarksville, TN
+Victoria BC
