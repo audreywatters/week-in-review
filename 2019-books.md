@@ -2,3 +2,4 @@
 
 Tressie McMillan Cottom's _Thick_
 Tim Maughan's _Infinite Detail_
+_Personality Brokers_
